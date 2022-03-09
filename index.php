@@ -9,5 +9,10 @@
 <body>
     <h1>Hello world</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore, vel magni? Minus quos laudantium quibusdam eos sunt, rem blanditiis! Tempora aperiam laborum illo quaerat, quod nulla laudantium reprehenderit nisi itaque.</p>
+    <ul>
+        <li>ANDINI TYAS</li>
+        <li>ANDINI</li>
+        <li>ASIH</li>
+    </ul>
 </body>
 </html>
